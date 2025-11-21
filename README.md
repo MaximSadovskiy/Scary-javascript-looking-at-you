@@ -1,0 +1,1 @@
+![js](https://github.com/MaximSadovskiy/Scary-javascript-looking-at-you/blob/main/png.png)
