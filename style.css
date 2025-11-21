@@ -1,0 +1,16 @@
+#xd {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: calc(50% - 250px / 2);
+    left: calc(50% - 250px / 2);
+    border: 5px solid #421b55;
+}
+
+#xd img {
+    /*Cпасибо ChatGPT*/
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
